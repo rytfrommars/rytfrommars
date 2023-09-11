@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @debosdev
-- 👀 I’m interested in coding. 
-- 🌱 I’m currently learning github and multiple programming languages. 
-- 💞️ I’m looking for more collaborators and friends because practice is the best way to learn.
-- 📫 You can find me on Instagram(@debasmitbose), Twitter(@DebasmitBose), and Discord(@devos).
+## 👋 Well um... Hello people! This is **Bug Addict Bose** .
+I'm a self intern.
+
+Umm yeah! Nothing much.
+Well You can contact me through [instagram](https://instagram.com/debasmitbose) or [telegram](https://t.me/bugaddictbose) anytime.
+
+### So yeah, it was nice to meet you! Have a good day ❤️
