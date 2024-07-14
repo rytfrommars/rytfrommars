@@ -1,6 +1,6 @@
 ## 👋 Well um... Hello people! This is **Dos**
 
-Umm yeah! Nothing much.
+Nothing much.
 
 
 
